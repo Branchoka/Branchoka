@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello,
-
 I'm Branimir !
 
 Education: 🧑‍🎓
