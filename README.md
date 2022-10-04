@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Branchoka/Branchoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello,
 
-Here are some ideas to get you started:
+I'm Branimir !
+Education: 🧑‍🎓
+I'm IT student in SoftUni 
+and 
+I study accounting and control in Univercity of National and World Economy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also that: 
+  🍹.I working in sphere of restorants.
+🎮🌳.In my spare time i like to go for walks and play board or video games.
+
+ 
